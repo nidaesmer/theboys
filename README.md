@@ -6,9 +6,10 @@ Projenize Axios'u eklemek için terminale yazılması gerekenler :
 ```
 npm install axios
 ```
-sonrasında ise import edilmesi unutulmamalıdır. 
+Sonrasında ise import edilmesi unutulmamalıdır. 
 ```
 import axios from 'axios';
+```
 
 ## API'den Veri Çekme
 Projede kullanılan veri çekme işlemi:
